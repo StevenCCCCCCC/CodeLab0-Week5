@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0d12a8b1-d1b8-4e3d-aae4-7794a809f6fa",
+            "Value": {
+                "id": "46083fdb-cf35-4a8e-b101-371c55b73241",
+                "resourcePath": "objects\\obj_solidmove\\obj_solidmove.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f57b29e-3232-432e-8b78-799a67393c16",
             "Value": {
                 "id": "59f7d263-7fed-487f-af2d-d2a40fedfb49",

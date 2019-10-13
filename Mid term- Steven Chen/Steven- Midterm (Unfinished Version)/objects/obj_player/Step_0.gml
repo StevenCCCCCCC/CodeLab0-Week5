@@ -50,3 +50,4 @@ if place_meeting(x, y + v_speed, obj_solid){
 }
 
 y += v_speed;
+
